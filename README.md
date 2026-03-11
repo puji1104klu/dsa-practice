@@ -7,6 +7,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/puji1104klu/dsa-practice/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/puji1104klu/dsa-practice/tree/main/0009-palindrome-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
