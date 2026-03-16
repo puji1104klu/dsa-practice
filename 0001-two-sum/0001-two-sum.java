@@ -10,7 +10,7 @@ class Solution {
             {
                 return new int[] {i, hm.get(need)};
             }
-            hm.put(nums[i],i)
+            hm.put(nums[i],i);
         }
         return new int[0];
     }
