@@ -5,15 +5,12 @@ class Solution {
         HashMap<Integer, Integer> hm= new HashMap<>();
         for(int i=0; i<n; i++)
         {
-            hm.put(nums[i],i);
-        }
-        for(int i=0; i<n; i++)
-        {
             int need=target-nums[i];
-            if(hm.containsKey(need)&&hm.get(need)!=i)
+            if(hm.containsKey(need))
             {
                 return new int[] {i, hm.get(need)};
             }
+            hm.put(nums[i],i)
         }
         return new int[0];
     }
