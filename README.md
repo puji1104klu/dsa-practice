@@ -8,6 +8,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/puji1104klu/dsa-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/puji1104klu/dsa-practice/tree/main/0009-palindrome-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/puji1104klu/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,16 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/puji1104klu/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/puji1104klu/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/puji1104klu/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
