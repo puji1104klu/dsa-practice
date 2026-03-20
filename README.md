@@ -36,6 +36,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/puji1104klu/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/puji1104klu/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/puji1104klu/dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/puji1104klu/dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/puji1104klu/dsa-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
