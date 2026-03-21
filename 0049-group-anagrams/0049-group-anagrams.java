@@ -1,6 +1,8 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) 
     {
+        //O(n*m)
+        
         int n=strs.length;
         HashMap<String, List<String>> hm= new HashMap<>();
         for(String s: strs)
