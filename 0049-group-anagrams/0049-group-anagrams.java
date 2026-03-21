@@ -3,16 +3,16 @@ class Solution {
     {
         int n=strs.length;
         HashMap<String, List<String>> hm= new HashMap<>();
-        for(String val: strs)
+        for(String s: strs)
         {
-            char a[] =val.toCharArray();
-            Arrays.sort(a);
-            String key=new String(a);
-            if(!hm.containsKey(key))
+            int count[]= new int[26];
+            for(char ch:s.toCharArray())
             {
-                hm.put(key,new ArrayList<>());
+                count[ch-'a']++;
             }
-            hm.get(key).add(val);
+                String k= Arrays.toString(count);
+                hm.putIfAbsent(k,new ArrayList<>());
+                hm.get(k).add(s);
         }
         return new ArrayList<>(hm.values());
     }
