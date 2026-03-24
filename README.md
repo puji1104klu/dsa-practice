@@ -8,6 +8,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/puji1104klu/dsa-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/puji1104klu/dsa-practice/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/puji1104klu/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0509-fibonacci-number](https://github.com/puji1104klu/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/puji1104klu/dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/puji1104klu/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -36,6 +38,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/puji1104klu/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/puji1104klu/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
