@@ -16,6 +16,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0001-two-sum](https://github.com/puji1104klu/dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/puji1104klu/dsa-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/puji1104klu/dsa-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +81,8 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0094-binary-tree-inorder-traversal](https://github.com/puji1104klu/dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/puji1104klu/dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/puji1104klu/dsa-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
