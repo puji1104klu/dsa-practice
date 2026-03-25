@@ -17,6 +17,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0035-search-insert-position](https://github.com/puji1104klu/dsa-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/puji1104klu/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/puji1104klu/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Binary Search
@@ -85,4 +87,8 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/puji1104klu/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
