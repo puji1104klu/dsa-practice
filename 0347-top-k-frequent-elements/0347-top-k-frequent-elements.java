@@ -7,15 +7,22 @@ class Solution {
             hm.put(nums[i], hm.getOrDefault(nums[i],0)+1);
         }
 
-        //create a list and keep these hashmap values
-        List<Integer> l= new ArrayList<>(hm.keySet());
-        l.sort((a,b)->hm.get(b)-hm.get(a));
-        
-        int res[] = new int[k];
-        for(int i=0; i<k; i++)
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a,b)-> hm.get(a)-hm.get(b));
+
+        for(int n: hm.keySet())
         {
-            res[i]=l.get(i);
+            pq.add(n);
+
+            if(pq.size()>k)
+            {
+                pq.poll();
+            }
         }
+
+        int res[] = new int[k];
+        int i=0;
+        while(!pq.isEmpty())
+        res[i++]=pq.poll();
         return res;
     }
 }
