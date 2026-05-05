@@ -20,6 +20,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/puji1104klu/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/puji1104klu/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/puji1104klu/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -120,4 +121,8 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/puji1104klu/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/puji1104klu/dsa-practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
