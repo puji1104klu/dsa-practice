@@ -16,6 +16,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0001-two-sum](https://github.com/puji1104klu/dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/puji1104klu/dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/puji1104klu/dsa-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/puji1104klu/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/puji1104klu/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -27,6 +28,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | ------- |
 | [0001-two-sum](https://github.com/puji1104klu/dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/puji1104klu/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/puji1104klu/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -92,6 +94,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/puji1104klu/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Two Pointers
 |  |
