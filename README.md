@@ -20,6 +20,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/puji1104klu/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/puji1104klu/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/puji1104klu/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/puji1104klu/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -30,6 +31,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0013-roman-to-integer](https://github.com/puji1104klu/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/puji1104klu/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/puji1104klu/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/puji1104klu/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -128,4 +130,8 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/puji1104klu/dsa-practice/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/puji1104klu/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
