@@ -55,6 +55,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0014-longest-common-prefix](https://github.com/puji1104klu/dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/puji1104klu/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/puji1104klu/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 |  |
@@ -102,6 +103,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/puji1104klu/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/puji1104klu/dsa-practice/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
