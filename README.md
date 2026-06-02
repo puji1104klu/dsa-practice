@@ -10,6 +10,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0009-palindrome-number](https://github.com/puji1104klu/dsa-practice/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/puji1104klu/dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0509-fibonacci-number](https://github.com/puji1104klu/dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/puji1104klu/dsa-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
 | ------- |
