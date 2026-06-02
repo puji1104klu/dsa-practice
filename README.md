@@ -19,6 +19,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0036-valid-sudoku](https://github.com/puji1104klu/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/puji1104klu/dsa-practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/puji1104klu/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/puji1104klu/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -55,6 +56,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0014-longest-common-prefix](https://github.com/puji1104klu/dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/puji1104klu/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/puji1104klu/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/puji1104klu/dsa-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/puji1104klu/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
@@ -85,6 +87,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/puji1104klu/dsa-practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/puji1104klu/dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/puji1104klu/dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/puji1104klu/dsa-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -99,6 +102,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | ------- |
 | [0036-valid-sudoku](https://github.com/puji1104klu/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/puji1104klu/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/puji1104klu/dsa-practice/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,4 +140,8 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/puji1104klu/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/puji1104klu/dsa-practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
