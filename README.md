@@ -60,6 +60,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0079-word-search](https://github.com/puji1104klu/dsa-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/puji1104klu/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/puji1104klu/dsa-practice/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/puji1104klu/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/puji1104klu/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/puji1104klu/dsa-practice/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
