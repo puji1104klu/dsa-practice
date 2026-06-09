@@ -37,6 +37,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/puji1104klu/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/puji1104klu/dsa-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0125-valid-palindrome](https://github.com/puji1104klu/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/puji1104klu/dsa-practice/tree/master/0344-reverse-string) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/puji1104klu/dsa-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
