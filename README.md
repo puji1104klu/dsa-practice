@@ -26,6 +26,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0217-contains-duplicate](https://github.com/puji1104klu/dsa-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/puji1104klu/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/puji1104klu/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/puji1104klu/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 | [0242-valid-anagram](https://github.com/puji1104klu/dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/puji1104klu/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/puji1104klu/dsa-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/puji1104klu/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/puji1104klu/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/puji1104klu/dsa-practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
