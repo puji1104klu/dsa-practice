@@ -158,4 +158,8 @@ My daily practiced DSA solutions from LeetCode and other platforms.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puji1104klu/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/puji1104klu/dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
